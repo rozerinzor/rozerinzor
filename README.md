@@ -41,17 +41,19 @@ focused on building scalable, efficient and user-centered applications.
 
 
 
+
 <p align="center">
-![rozerinzor's Stats](https://github-readme-stats.vercel.app/api?username=rozerinzor&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+  <img src="![rozerinzor's Stats](https://github-readme-stats.vercel.app/api?username=rozerinzor&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)e" />
 </p>
 
 <p align="center">
-  ![rozerinzor's Streak](https://github-readme-streak-stats.herokuapp.com/?user=rozerinzor&theme=vue-dark&hide_border=true)
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ROZERINZOR&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  ![rozerinzor's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rozerinzor&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ROZERINZOR&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
+>
 
 ---
 

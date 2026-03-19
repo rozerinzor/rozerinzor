@@ -1,6 +1,6 @@
 <!-- ========== HEADER (NEON TERMINAL STYLE) ========== -->
 <p align="center">
- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00FF9F&height=220&section=header&text=ROZERIN%20ZOR&fontSize=45&fontColor=#ffffff&animation=fadeIn" />
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00FF9F&height=220&section=header&text=ROZERIN%20ZOR&fontSize=45&fontColor=ffffffff&animation=fadeIn" />
 </p>
 
 <!-- ========== TYPING ANIMATION ========== -->

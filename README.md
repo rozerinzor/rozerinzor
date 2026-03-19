@@ -1,14 +1,16 @@
-<!-- TERMINAL STYLE HEADER -->
+<!-- ========== HEADER (NEON TERMINAL STYLE) ========== -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=00FF9F&center=true&vCenter=true&width=800&lines=console.log(%22Hi%2C+I'm+Rozerin+Zor%22);Software+Engineer;Mobile+%7C+Web+Developer;React+%7C+React+Native+%7C+Node.js;Full+Stack+Developer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00FF9F&height=220&section=header&text=ROZERIN%20ZOR&fontSize=45&fontColor=00FF9F&animation=fadeIn" />
 </p>
 
+<!-- ========== TYPING ANIMATION ========== -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=2800&color=00FF9F&center=true&vCenter=true&width=900&lines=console.log(%22Software+Engineer%22);Building+Mobile+%7C+Web+Applications;React+%7C+React+Native+%7C+Node.js;Full+Stack+Developer+🚀" />
+</p>
+
+<!-- ========== MAIN GIF (DEV VIBE) ========== -->
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=3"/>
 </p>
 
 ---

@@ -1,6 +1,6 @@
 <!-- TERMINAL STYLE HEADER -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=00FF9F&center=true&vCenter=true&width=800&lines=console.log(%22Hi%2C+I'm+Rozerin+Zor%22);Software+Engineer+Instructor;Mobile+%7C+Web+%7C+Full+Stack+Developer;React+%7C+React+Native+%7C+Node.js" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=00FF9F&center=true&vCenter=true&width=800&lines=console.log(%22Hi%2C+I'm+Rozerin+Zor%22);Software+Engineer;Mobile+%7C+Web+Developer;React+%7C+React+Native+%7C+Node.js;Full+Stack+Developer" />
 </p>
 
 <p align="center">
@@ -15,14 +15,13 @@
 
 ## 👩‍💻 About Me
 
-I’m a **Software Engineer Instructor & Full Stack Developer**  
-focused on building scalable, performant and clean architecture applications.
+I am a **Software Engineer & Full Stack Developer**  
+focused on building scalable, efficient and user-centered applications.
 
 - 📱 Mobile Development (React Native, iOS, Android)
-- 🌐 Full Stack Web Development
-- 🚀 API design & system integration
-- 🎯 UI/UX focused engineering mindset
-- 📚 Teaching software engineering
+- 🌐 Web Development (Frontend & Backend)
+- 🚀 REST APIs & system integration
+- 🎯 Clean architecture & performance-focused development
 
 ---
 
@@ -34,7 +33,7 @@ focused on building scalable, performant and clean architecture applications.
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ROZERINZOR&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -50,7 +49,7 @@ focused on building scalable, performant and clean architecture applications.
 
 ---
 
-## 🏆 Achievements
+## 🏆 GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ROZERINZOR&theme=algolia&no-frame=true&row=1&column=6" />
@@ -58,7 +57,7 @@ focused on building scalable, performant and clean architecture applications.
 
 ---
 
-## 📈 Contribution Graph
+## 📈 Activity Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ROZERINZOR&theme=react-dark&hide_border=true" />
@@ -71,19 +70,19 @@ focused on building scalable, performant and clean architecture applications.
 - 📱 Mobile App Development (React Native)
 - 🌐 Full Stack Web Applications
 - 🔌 REST API Development & Integration
-- 💰 App Monetization (Ads & Subscriptions)
-- 🧠 Software Engineering Training
+- 💰 App monetization (Ads & Subscriptions)
+- 🧠 Scalable software architecture
 
 ---
 
 ## 💼 Experience Highlights
 
 - React & React Native applications
-- Node.js backend systems
-- Firebase & MongoDB integrations
+- Node.js backend development
+- Firebase & MongoDB integration
 - RevenueCat subscription systems
-- Google Ads / AdMob monetization setup
-- API architecture & development
+- Google Ads / AdMob integration
+- REST API design & development
 
 ---
 
@@ -99,11 +98,11 @@ focused on building scalable, performant and clean architecture applications.
 
 ---
 
-## 💡 Dev Quote
+## 💡 Quote
 
 <p align="center">
 
-> “Clean code is not written by chance, it is designed.”
+> “Good software is built, not rushed.”
 
 </p>
 

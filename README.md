@@ -1,6 +1,6 @@
 <!-- ========== HEADER (NEON TERMINAL STYLE) ========== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Rozerin%20Zor&reversal=true&textBg=false&animation=fadeIn"
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00FF9F&height=220&section=header&text=ROZERIN%20ZOR&fontSize=45&fontColor=00FF9F&animation=fadeIn" />
 </p>
 
 <!-- ========== TYPING ANIMATION ========== -->
@@ -37,16 +37,20 @@ focused on building scalable, efficient and user-centered applications.
 
 ## 📊 GitHub Stats
 
+
+
+
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ROZERINZOR&show_icons=true&theme=tokyonight&hide_border=true" />
+![rozerinzor's Stats](https://github-readme-stats.vercel.app/api?username=rozerinzor&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ROZERINZOR&theme=tokyonight&hide_border=true" />
+  ![rozerinzor's Streak](https://github-readme-streak-stats.herokuapp.com/?user=rozerinzor&theme=vue-dark&hide_border=true)
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ROZERINZOR&layout=compact&theme=tokyonight&hide_border=true" />
+  ![rozerinzor's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rozerinzor&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 </p>
 
 ---

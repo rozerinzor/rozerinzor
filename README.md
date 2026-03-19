@@ -1,10 +1,14 @@
-<!-- HEADER ANIMATION -->
+<!-- TERMINAL STYLE HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=220&section=header&text=Rozerin%20Zor&fontSize=45&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=00FF9F&center=true&vCenter=true&width=800&lines=console.log(%22Hi%2C+I'm+Rozerin+Zor%22);Software+Engineer+Instructor;Mobile+%7C+Web+%7C+Full+Stack+Developer;React+%7C+React+Native+%7C+Node.js" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3500&color=00C2FF&center=true&vCenter=true&width=700&lines=Software+Engineer+Instructor;Mobile+%7C+Web+Developer;React+%7C+React+Native+%7C+Node.js;Full+Stack+Developer" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=3"/>
 </p>
 
 ---
@@ -12,21 +16,20 @@
 ## 👩‍💻 About Me
 
 I’m a **Software Engineer Instructor & Full Stack Developer**  
-focused on building scalable mobile and web applications.
+focused on building scalable, performant and clean architecture applications.
 
-- 📱 Mobile Development (iOS & Android)
-- 🌐 Frontend + Backend Development
-- 🚀 Clean architecture & performance focused
-- 🎯 UI/UX oriented engineering mindset
+- 📱 Mobile Development (React Native, iOS, Android)
+- 🌐 Full Stack Web Development
+- 🚀 API design & system integration
+- 🎯 UI/UX focused engineering mindset
+- 📚 Teaching software engineering
 
 ---
 
-## ⚡ Tech Stack
+## ⚙️ Tech Stack
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=react,redux,nextjs,nodejs,express,js,ts,html,css,sass,bootstrap,mongodb,firebase,git,github,postman" />
-
+  <img src="https://skillicons.dev/icons?i=react,redux,nextjs,nodejs,express,js,ts,html,css,sass,bootstrap,mongodb,firebase,git,github,postman" />
 </p>
 
 ---
@@ -55,7 +58,7 @@ focused on building scalable mobile and web applications.
 
 ---
 
-## 📈 Activity Graph
+## 📈 Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ROZERINZOR&theme=react-dark&hide_border=true" />
@@ -63,27 +66,24 @@ focused on building scalable mobile and web applications.
 
 ---
 
-## 🚀 Featured Skills
+## 🚀 What I Do
 
-<p align="center">
-  
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![RevenueCat](https://img.shields.io/badge/RevenueCat-FF6A00?style=for-the-badge)
-
-</p>
+- 📱 Mobile App Development (React Native)
+- 🌐 Full Stack Web Applications
+- 🔌 REST API Development & Integration
+- 💰 App Monetization (Ads & Subscriptions)
+- 🧠 Software Engineering Training
 
 ---
 
-## 📌 Featured Projects
+## 💼 Experience Highlights
 
-<p align="center">
-
-🚧 Soon adding my top projects here 🚧
-
-</p>
+- React & React Native applications
+- Node.js backend systems
+- Firebase & MongoDB integrations
+- RevenueCat subscription systems
+- Google Ads / AdMob monetization setup
+- API architecture & development
 
 ---
 
@@ -99,12 +99,17 @@ focused on building scalable mobile and web applications.
 
 ---
 
-## 💡 Motto
+## 💡 Dev Quote
 
-> “Build. Teach. Scale. Repeat.”
+<p align="center">
+
+> “Clean code is not written by chance, it is designed.”
+
+</p>
 
 ---
 
+<!-- FOOTER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
 </p>

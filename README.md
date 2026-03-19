@@ -112,5 +112,5 @@ focused on building scalable, efficient and user-centered applications.
 
 <!-- FOOTER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:000000,100:00FF9F&section=footer"/>
 </p>

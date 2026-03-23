@@ -5,7 +5,7 @@
 
 <!-- ========== TYPING ANIMATION ========== -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=2800&color=00FF9F&center=true&vCenter=true&width=900&lines=console.log(%22Software+Engineer%22);Building+Mobile+%7C+Web+Applications;React+%7C+React+Native+%7C+Node.js;Full+Stack+Developer+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=2800&color=00FF9F&center=true&vCenter=true&width=900&lines=console.log(%22Software+Engineer%22);Mobile+%7C+Web+Applications;React+%7C+React+Native+%7C+Node.js;Full+Stack+Developer+🚀" />
 </p>
 
 <!-- ========== MAIN GIF (DEV VIBE) ========== -->

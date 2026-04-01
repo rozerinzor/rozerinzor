@@ -19,11 +19,17 @@
 
 I am a **Software Engineer & Full Stack Developer**  
 focused on building scalable, efficient and user-centered applications.
-
-- 📱 Mobile Development (React Native, iOS, Android)
-- 🌐 Web Development (Frontend & Backend)
-- 🚀 REST APIs & system integration
-- 🎯 Clean architecture & performance-focused development
+📱 Mobile Development (React Native, iOS, Android)
+🌐 Web Development (Frontend & Backend)
+⚡ Frontend: Next.js, React
+🛠 Backend: Node.js, Express.js
+🚀 REST APIs & system integration
+🗄️ Database: MongoDB
+🧪 API testing & development: Postman
+🌍 Internationalization (i18n)
+💰 Monetization & subscriptions: RevenueCat
+📈 Growth & marketing integrations: Google Ads
+🎯 Clean architecture & performance-focused development
 
 ---
 

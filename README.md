@@ -15,7 +15,7 @@
 
 ---
 
-## 👩‍💻 About Me
+
 
 ## Skills
 

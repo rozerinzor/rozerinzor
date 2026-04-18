@@ -41,37 +41,7 @@
 
 ---
 
-## 📊 GitHub Stats
 
-
-
-
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rozerinzor&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rozerinzor&theme=vue-dark&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rozerinzor&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" />
-</p>
->
-
----
-
-
-
-## 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ROZERINZOR&theme=react-dark&hide_border=true" />
-</p>
-
----
 
 ## 🚀 What I Do
 

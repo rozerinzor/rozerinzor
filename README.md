@@ -64,17 +64,6 @@
 
 ---
 
-## 📫 Contact
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rozerinzor&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rozerinzor&theme=vue-dark&hide_border=true" alt="Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rozerinzor&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="Languages" />
-</p>
-
----
 
 ## 💡 Quote
 
